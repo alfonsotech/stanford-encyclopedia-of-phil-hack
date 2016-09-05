@@ -28,7 +28,7 @@ $(function(){
 //Render search query to search-results div by changing the src attribute of the <iframe>
 function showResults (search_term) {
   //Build search query string
-  var url = '//plato.stanford.edu/entries/' + search_term + '/';
+  var url = 'https://plato.stanford.edu/entries/' + search_term + '/';
   $('.search-results').attr('src', url);
     /*make unwanted elements disappear $('#seach-form').html('');*/
     /*HT add reading times to articles*/
