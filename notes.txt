@@ -1,0 +1,17 @@
+background gray: #D8D8D8
+background light-red-gray: #f2ece8
+brick red: #8c1515
+blacks: #000, #333, #1a1a1a
+a link color: #08c
+
+Fonts
+Body defaults: "Helvetica Neue",Helvetica,Arial,sans-serif
+Page to right article: "Source Sans Pro", Arial, sans-serif
+
+title:     
+ 	font-family: "Source Sans Pro", Arial, sans-serif
+	font-weight: 300;
+    font-size: 2.7em;
+    line-height: 1em;
+
+    Sexy HR credit: Used http://jsfiddle.net/JoshMesser/55ZfK/
