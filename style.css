@@ -82,6 +82,9 @@ iframe, .search-terms {
 #head-wrapper {
 	width: 100%;
 }
+/*#header-wrapper {
+  display: none;
+}*/
 
 /*Fonts*/
 h1 {

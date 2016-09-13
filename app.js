@@ -28,10 +28,16 @@ $(document).ready(function() {
   function showResults (search_term) {
     //Build search query string
     var url = 'https://plato.stanford.edu/entries/' + search_term + '/';
-    console.log(url);
     $('#search-results').attr('src', url);
+    //hideHeader();
       /*make unwanted elements disappear $('#seach-form').html('');*/
       /*HT add reading times to articles*/
   }
+
+  /*function hideHeader() {
+    $('#header-wrapper').val();
+    
+  }*/
+
 //https://crossorigin.me/
 });
